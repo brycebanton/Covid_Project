@@ -1,4 +1,4 @@
-,Country,January_2020_recovery,February_2020_recovery,March_2020_recovery,April_2020_recovery,May_2020_recovery,June_2020_recovery,July_2020_recovery,August_2020_recovery,September_2020_recovery,October_2020_recovery,November_2020_recovery,December_2020_recovery,January_2021_recovery,Country_clean_recovery,Country_Binned_recovery
+,Country,2020-01-31_recovery,2020-02-29_recovery,2020-03-31_recovery,2020-04-30_recovery,2020-05-31_recovery,2020-06-30_recovery,2020-07-31_recovery,2020-08-31_recovery,2020-09-30_recovery,2020-10-31_recovery,2020-11-30_recovery,2020-12-31_recovery,2021-01-31_recovery,Country_clean_recovery,Country_Binned_recovery
 0,Afghanistan,0,0,5,260,1328,14131,25509,29089,32789,34321,36831,41727,47679,Afghanistan,Asia
 1,Albania,0,0,52,470,872,1459,2952,5214,7847,11189,18849,33634,47424,Albania,Europe
 2,Algeria,0,0,46,1779,5748,9897,20537,31244,36174,40201,53809,67127,73344,Algeria,Africa

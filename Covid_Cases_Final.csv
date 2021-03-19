@@ -1,4 +1,4 @@
-,Country,January_2020_cases,February_2020_cases,March_2020_cases,April_2020_cases,May_2020_cases,June_2020_cases,July_2020_cases,August_2020_cases,September_2020_cases,October_2020_cases,November_2020_cases,December_2020_cases,January_2021_cases,Country_clean_cases,Country_Binned_cases
+,Country,2020-01-31_cases,2020-02-29_cases,2020-03-31_cases,2020-04-30_cases,2020-05-31_cases,2020-06-30_cases,2020-07-31_cases,2020-08-31_cases,2020-09-30_cases,2020-10-31_cases,2020-11-30_cases,2020-12-31_cases,2021-01-31_cases,Country_clean_cases,Country_Binned_cases
 0,Afghanistan,0,1,175,2127,15208,31507,36665,38159,39268,41425,46274,51526,55023,Afghanistan,Asia
 1,Albania,0,0,243,773,1137,2535,5276,9513,13649,20875,38182,58316,78127,Albania,Europe
 2,Algeria,0,1,716,4006,9394,13907,30394,44494,51530,57942,83199,99610,107339,Algeria,Africa

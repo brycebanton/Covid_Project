@@ -1,4 +1,4 @@
-,Country,January_2020_deaths,February_2020_deaths,March_2020_deaths,April_2020_deaths,May_2020_deaths,June_2020_deaths,July_2020_deaths,August_2020_deaths,September_2020_deaths,October_2020_deaths,November_2020_deaths,December_2020_deaths,January_2021_deaths,Country_clean_deaths,Country_Binned_deaths
+,Country,2020-01-31_deaths,2020-02-29_deaths,2020-03-31_deaths,2020-04-30_deaths,2020-05-31_deaths,2020-06-30_deaths,2020-07-31_deaths,2020-08-31_deaths,2020-09-30_deaths,2020-10-31_deaths,2020-11-30_deaths,2020-12-31_deaths,2021-01-31_deaths,Country_clean_deaths,Country_Binned_deaths
 0,Afghanistan,0,0,4,64,258,752,1284,1403,1460,1538,1795,2191,2400,Afghanistan,Asia
 1,Albania,0,0,15,31,33,62,157,284,387,509,810,1181,1380,Albania,Europe
 2,Algeria,0,0,44,450,653,912,1210,1510,1736,1964,2431,2756,2891,Algeria,Africa
